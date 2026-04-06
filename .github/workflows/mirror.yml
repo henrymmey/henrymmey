@@ -1,0 +1,38 @@
+name: Mirror to Codeberg
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  mirror_to_codeberg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Build Codeberg README from profile README
+        run: |
+          if [ ! -f profile/README.md ]; then
+            echo "profile/README.md not found"
+            exit 1
+          fi
+          cp profile/README.md README.md
+
+      - name: Commit transformed README for Codeberg mirror
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No README changes to commit"
+          else
+            git commit -m "chore: sync profile README to root for Codeberg"
+          fi
+
+      - name: Push to Codeberg
+        run: |
+          git remote add codeberg "https://JumpStone:${{ secrets.CODEBERG_TOKEN }}@codeberg.org/JumpStone/.profile.git"
+          git push --force codeberg HEAD:main
