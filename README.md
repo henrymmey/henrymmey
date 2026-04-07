@@ -11,20 +11,22 @@
 
 ---
 
-## About:
+### Currently learning
 
-I am a self-taught developer and sysadmin currently in secondary school. While others are just consuming content, I prefer building the infrastructure behind it. My focus lies in automating processes and maintaining secure, scalable HomeLab systems.
+![Currently learning](https://skillicons.dev/icons?i=js,ts,githubactions)
 
-**My Story:**
 
-* **The Spark:** It all started with a fascination for hardware and the question of how to not just use PC systems, but to configure and optimize them from the ground up.
-* **From Gaming to Admin:** Building and technically leading a Minecraft network was my "baptism by fire" in terms of community management and server stability.
-* **Deep Dive:** Standard software soon wasn't enough. I dove into the world of **Linux (Debian, Fedora)**, **Docker virtualization**, and professional **monitoring with Grafana & Prometheus**.
-* **Current Mission:** My biggest achievement so far has been winning **1st place in the "Jugend forscht" regional round (2026)**. Currently, I am tinkering with custom hardware like my Python-based travel router and preparing for the state-level competition.
+### Tools
 
-**Why I Do What I Do:**
+![Tools](https://skillicons.dev/icons?i=git,github,githubactions,cloudflare,docker,firebase,mysql,redis,npm,nginx,vscode,idea,arduino,bash,powershell&perline=10)
 
-I love solving complex problems that others don't even see.  My goal is to understand, bend, and improve technology.
+### Libraries
+
+![Libraries](https://skillicons.dev/icons?i=nextjs)
+
+### Programming Languages
+
+![Programming Languages](https://skillicons.dev/icons?i=html,css,js,ts)
 
 ---
 
@@ -35,7 +37,7 @@ I love solving complex problems that others don't even see.  My goal is to under
 | **JS Gaming**  | Development of modpacks, resource packs, and more.                   | `Java` `Design` | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone-gaming)            |
 | **Akku-Craft** | Development of a modular power bank that can be expanded as desired. | `BMS` `Arduino` | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/akku-craft) [![Static Badge](https://img.shields.io/badge/Wiki-black?logo=github)](https://github.com/akku-craft/wiki/wiki) |
 
-## Other Projects
+## Other stuff I do
 
 | Projekt            | Beschreibung                                                                       | Tech Tags                         | Links                                                                                                                                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------|:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
