@@ -3,10 +3,11 @@
 ### Software developer and hardware enthusiast from Germany
 
 <p>
-<a href="https://github.com/jumpstone"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-<a href="https://codeberg.org/jumpstone"><img src="https://img.shields.io/badge/Codeberg-darkblue?style=for-the-badge&logo=codeberg" alt="GitHub"></a>
-<a href="https://jumpstone4477.de/"><img src="https://img.shields.io/badge/Website-JumpStone4477.de-green?style=for-the-badge" alt="Website"></a>
-<a href="https://discord.com/users/1008346032230387752"><img src="https://img.shields.io/badge/Discord-%40JumpStone4477-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://github.com/jumpstone"><img src="https://img.shields.io/badge/GitHub-black?style=logo=github" alt="GitHub"></a>
+<a href="https://codeberg.org/jumpstone"><img src="https://img.shields.io/badge/Codeberg-darkblue?style=logo=codeberg" alt="GitHub"></a>
+<a href="https://jumpstone4477.de/"><img src="https://img.shields.io/badge/Website-JumpStone4477.de-green" alt="Website"></a>
+<a href="https://discord.com/users/1008346032230387752"><img src="https://img.shields.io/badge/Discord-%40JumpStone4477-blue?logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://wakatime.com/@1507baaa-cad8-4491-b46c-54780cd11ebf"><img src="https://wakatime.com/badge/user/1507baaa-cad8-4491-b46c-54780cd11ebf.svg" alt="Total time coded since Feb 27 2026" /></a>
 </p>
 
 ---
