@@ -35,7 +35,7 @@
 
 | Projekt        | Beschreibung                                                         | Tech Tags       | Links                                                                                                                                                                                                                   |
 |:---------------|:---------------------------------------------------------------------|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **JS Gaming**  | Development of modpacks, resource packs, and more.                   | `Java` `Design` | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone-gaming)            |
+| **JS Gaming**  | Development of modpacks, resource packs, and more.                   | `Java` `Design` | [![Static Badge](https://img.shields.io/badge/Modrinth-darkgreen?logo=modrinth)](https://github.com/jumpstone-gaming) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://modrinth.com/organization/jumpstone-gaming)            |
 | **Akku-Craft** | Development of a modular power bank that can be expanded as desired. | `BMS` `Arduino` | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/akku-craft) [![Static Badge](https://img.shields.io/badge/Wiki-black?logo=github)](https://github.com/akku-craft/wiki/wiki) |
 
 ## Other stuff I do
