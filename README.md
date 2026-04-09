@@ -1,6 +1,6 @@
 # Hi, I'm Henry.
 
-### Software developer and hardware enthusiast from Germany
+### Young self taught software developer from Germany
 
 <p>
 <a href="https://github.com/jumpstone"><img src="https://img.shields.io/badge/GitHub-black?style=logo=github" alt="GitHub"></a>
