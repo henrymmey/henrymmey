@@ -4,7 +4,7 @@ Young self-taught software developer & hardware enthusiast from Germany. Turning
 
 <p>
 <a href="https://jumpstone4477.de"><img src="https://img.shields.io/badge/Website-orange" alt="Website"></a>
-<a href="https://jumpstone.is-cool.dev"><img src="https://img.shields.io/badge/Developer Website-orange" alt="Developer Website"></a>
+<a href="https://jumpstone.is-cool.dev"><img src="https://img.shields.io/badge/Developer%20Website-orange" alt="Developer Website"></a>
 <a href="https://jumpstone.is-cool.dev/projects"><img src="https://img.shields.io/badge/Projects-orange" alt="Projects"></a>
 <a href="https://wakatime.com/@1507baaa-cad8-4491-b46c-54780cd11ebf"><img src="https://wakatime.com/badge/user/1507baaa-cad8-4491-b46c-54780cd11ebf.svg" alt="Total time coded since Feb 27 2026" /></a>
 </p>
