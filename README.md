@@ -1,55 +1,28 @@
 # Hi, I'm Henry.
 
-### Young self taught software developer from Germany
+Young self-taught software developer & hardware enthusiast from Germany. Turning complex problems into efficient, real-world solutions.
 
 <p>
-<a href="https://github.com/jumpstone"><img src="https://img.shields.io/badge/GitHub-black?style=logo=github" alt="GitHub"></a>
-<a href="https://codeberg.org/jumpstone"><img src="https://img.shields.io/badge/Codeberg-darkblue?style=logo=codeberg" alt="GitHub"></a>
-<a href="https://jumpstone4477.de/"><img src="https://img.shields.io/badge/Website-JumpStone4477.de-green" alt="Website"></a>
-<a href="https://discord.com/users/1008346032230387752"><img src="https://img.shields.io/badge/Discord-%40JumpStone4477-blue?logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://jumpstone4477.de"><img src="https://img.shields.io/badge/Website-orange" alt="Website"></a>
+<a href="https://jumpstone.is-cool.dev"><img src="https://img.shields.io/badge/Developer Website-orange" alt="Developer Website"></a>
+<a href="https://jumpstone.is-cool.dev/projects"><img src="https://img.shields.io/badge/Projects-orange" alt="Projects"></a>
 <a href="https://wakatime.com/@1507baaa-cad8-4491-b46c-54780cd11ebf"><img src="https://wakatime.com/badge/user/1507baaa-cad8-4491-b46c-54780cd11ebf.svg" alt="Total time coded since Feb 27 2026" /></a>
 </p>
 
----
+## About Me
 
-### Currently learning
+**Getting Started**
+My journey into technology didn't start with a textbook — it started with a challenge. Curious about how online worlds are built and managed, I co-founded a Minecraft server and dove headfirst into Java development. What began as a gaming project quickly turned into a deep fascination with code and everything it makes possible.
 
-![Currently learning](https://skillicons.dev/icons?i=js,ts,githubactions)
+**Hardware & Hands-On**
+Growing up with a father who is an electrical engineer, I've always been drawn to the full picture — whether it's writing automation scripts, wiring up a garden house, or building local networks. That hands-on mindset led me to projects like Akku-Craft, a hardware-meets-software build that recently secured 1st place at the regional Jugend forscht competition.
 
+**Learning by Doing**
+My early steps in software included experiments like GrüneEule, an open-source browser tool collection. While that project has since retired, it taught me more than any tutorial could. I'm a firm believer in learning by doing — using a modern toolkit of AI and technical resources to pick up new skills fast.
 
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,githubactions,cloudflare,docker,firebase,mysql,redis,npm,nginx,vscode,idea,arduino,bash,powershell&perline=10)
-
-### Libraries
-
-![Libraries](https://skillicons.dev/icons?i=nextjs)
-
-### Programming Languages
-
-![Programming Languages](https://skillicons.dev/icons?i=html,css,js,ts)
+**The Full Stack**
+Managing servers over the years also introduced me to the power of Linux. Today I'm comfortable in environments like NGINX and Apache, and working with panels like Pterodactyl and Pelican. For me, programming has never been just a hobby — it's about understanding the entire stack, from the physical cable to the final line of code.
 
 ---
 
-## Featured Projects
-
-| Projekt        | Beschreibung                                                         | Tech Tags       | Links                                                                                                                                                                                                                   |
-|:---------------|:---------------------------------------------------------------------|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **JS Gaming**  | Development of modpacks, resource packs, and more.                   | `Java` `Design` | [![Static Badge](https://img.shields.io/badge/Modrinth-darkgreen?logo=modrinth)](https://github.com/jumpstone-gaming) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://modrinth.com/organization/jumpstone-gaming)            |
-| **Akku-Craft** | Development of a modular power bank that can be expanded as desired. | `BMS` `Arduino` | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/akku-craft) [![Static Badge](https://img.shields.io/badge/Wiki-black?logo=github)](https://github.com/akku-craft/wiki/wiki) |
-
-## Other stuff I do
-
-| Projekt            | Beschreibung                                                                       | Tech Tags                         | Links                                                                                                                                                                                                     |
-|:-------------------|:-----------------------------------------------------------------------------------|:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Link Shortener** | Private link shortener build with JavaScript and deployed with Cloudflare Workers. | `JavaScript` `Cloudflare Workers` | [![Static Badge](https://img.shields.io/badge/Repository-black?logo=github)](https://github.com/JumpStone/link-shortener)                                                                                 |
-
----
-
-**Stats**
-
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JumpStone&show_icons=true&theme=dark)
-
----
-
-[![Static Badge](https://img.shields.io/badge/Code%20of%20Conduct-grey?style=flat-square)](https://jumpstone4477.de/code-of-conduct)
+[![Static Badge](https://img.shields.io/badge/Code%20of%20Conduct-grey)](https://jumpstone4477.de/code-of-conduct)
