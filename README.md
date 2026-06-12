@@ -14,4 +14,4 @@ Young self-taught software developer & hardware enthusiast from Germany. Turning
 
 ---
 
-[![Static Badge](https://img.shields.io/badge/Code%20of%20Conduct-grey)](https://jumpstone4477.de/code-of-conduct)
+[![Static Badge](https://img.shields.io/badge/Code%20of%20Conduct-grey)](https://henrymeyer.de/code-of-conduct/?utm_source=github&utm_medium=social&utm_campaign=profile)
