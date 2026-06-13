@@ -18,5 +18,4 @@ jobs:
         uses: wearerequired/git-mirror-action@v1
         with:
           source-repo: "https://github.com/${{ github.repository }}.git"
-          # Hier bauen wir Username und Token direkt in die URL ein:
           destination-repo: "https://henrymmey:${{ secrets.CODEBERG_TOKEN }}@codeberg.org/henrymmey/.profile.git"
