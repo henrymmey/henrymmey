@@ -19,4 +19,4 @@ jobs:
         with:
           source-repo: "https://github.com/${{ github.repository }}.git"
           # Hier bauen wir Username und Token direkt in die URL ein:
-          destination-repo: "https://henrymmey:${{ secrets.FORGEJO_TOKEN }}@git.meyerwolke.de/henrymmey/.profile.git"
+          destination-repo: "https://henrymmey:${{ secrets.FORGEJO_TOKEN }}@forgejo.meyerwolke.de/henrymmey/.profile.git"
