@@ -5,6 +5,7 @@ Young self-taught software developer & hardware enthusiast from Germany. Turning
 <p>
 <a href="https://henrymeyer.de/"><img src="https://img.shields.io/badge/Website-orange" alt="Website"></a>
 <a href="https://henrymeyer.de/projects"><img src="https://img.shields.io/badge/Projects-orange" alt="Projects"></a>
+<a href="https://gaming.henrymeyer.de/"><img src="https://img.shields.io/badge/HM_Gaming-orange" alt="HM Gaming"></a>
 <a href="https://hackatime.hackclub.com/@HenryMMey"><img src="https://img.shields.io/badge/Hackatime-purple" alt="Hackatime"></a>
 </p>
 
