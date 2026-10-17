@@ -13,6 +13,8 @@ Young self-taught software developer & hardware enthusiast from Germany. Turning
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=36150&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
+![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=henrymmey&theme=github_dark#gh-dark-mode-only)
+
 ---
 
 [![Static Badge](https://img.shields.io/badge/Code%20of%20Conduct-grey)](https://henrymeyer.de/code-of-conduct)
