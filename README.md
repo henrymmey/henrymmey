@@ -4,7 +4,7 @@ Young self-taught software developer & hardware enthusiast from Germany. Turning
 
 ## About
 
-I’m a self-taught developer and hardware hobbyist from Germany who enjoys projects that fall somewhere between code and circuit boards—such as “Akku-Craft,” a modular power bank platform that I’m developing from scratch, or the Minecraft modding tools I distribute through HM Gaming. I learn best by building things I really want and then figuring out the rest as I go.
+I’m a self-taught developer and hardware hobbyist from Germany who enjoys projects that fall somewhere between code and circuit boards—such as “Akku-Craft,” a modular power bank platform that I’m developing from scratch, or the Minecraft modding tools I distribute through HMLabs Gaming. I learn best by building things I really want and then figuring out the rest as I go.
 
 ## Stats
 
