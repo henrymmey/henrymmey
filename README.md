@@ -15,59 +15,12 @@ I’m a self-taught developer and hardware hobbyist from Germany who enjoys proj
 
 ## Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>HMLabs Gaming</h3>
-      <strong>Founder</strong>
-      <p>
-        A collection of Minecraft projects focused on
-        creating mods, plugins, modpacks and resource packs.
-      </p>
-      <a href="https://henrymeyer.de/projects/hmlabs-gaming/">Details ↗</a> |
-      <a href="https://gaming.hmlabs.eu/">Website ↗</a> |
-      <a href="https://github.com/HMLabs-Gaming">GitHub ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Akku-Craft</h3>
-      <strong>Co-Founder, Hardware Engineering</strong>
-      <p>
-        A modular power-bank platform focused on
-        hardware reliability and expandability.
-      </p>
-      <a href="https://henrymeyer.de/projects/akku-craft/">Details ↗</a> |
-      <a href="https://akku-craft.eu/">Website ↗</a> |
-      <a href="https://github.com/akku-craft">GitHub ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Projekt Ansichtssache</h3>
-      <strong>Developer, Maintainer</strong>
-      <p>
-        A student project focused on digital accessibility.
-        Making the web more inclusive through simple tools.
-      </p>
-      <a href="https://henrymeyer.de/projects/projekt-ansichtssache/">Details ↗</a> |
-      <a href="https://github.com/Projekt-Ansichtssache">GitHub ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>HMLabs</h3>
-      <strong>Founder</strong>
-      <p>
-        Home to open source projects across software,
-        tools and Minecraft.
-      </p>
-      <a href="https://henrymeyer.de/projects/hmlabs/">Details ↗</a> |
-      <a href="https://hmlabs.eu/">Website ↗</a> |
-      <a href="https://github.com/HMLabs-HQ">GitHub ↗</a>
-    </td>
-  </tr>
-</table>
+- **HMLabs Gaming** – Minecraft mods, plugins, modpacks and resource packs. · [Details](https://henrymeyer.de/projects/hmlabs-gaming/) · [Website](https://gaming.hmlabs.eu/)
+- **Akku-Craft** – Modular power-bank platform focused on hardware reliability and expandability. · [Details](https://henrymeyer.de/projects/akku-craft/) · [Website](https://akku-craft.eu/)
+- **Projekt Ansichtssache** – Tools for digital accessibility and a more inclusive web. · [Details](https://henrymeyer.de/projects/projekt-ansichtssache/) · [GitHub](https://github.com/Projekt-Ansichtssache)
+- **HMLabs** – Open-source projects across software, tools and Minecraft. · [Details](https://henrymeyer.de/projects/hmlabs/) · [Website](https://hmlabs.eu/)
 
-<p>
-  <a href="https://henrymeyer.de/projects/">All projects ↗</a>
-</p>
+[All projects →](https://henrymeyer.de/projects/)
 
 ---
 
