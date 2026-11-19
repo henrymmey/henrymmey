@@ -20,8 +20,8 @@ I’m a self-taught developer and hardware hobbyist from Germany who enjoys proj
 - **Projekt Ansichtssache** – Tools for digital accessibility and a more inclusive web. · [Details](https://henrymeyer.de/projects/projekt-ansichtssache/) · [GitHub](https://github.com/Projekt-Ansichtssache)
 - **HMLabs** – Open-source projects across software, tools and Minecraft. · [Details](https://henrymeyer.de/projects/hmlabs/) · [Website](https://hmlabs.eu/)
 
-[All projects →](https://henrymeyer.de/projects/)
+[All projects](https://henrymeyer.de/projects/)
 
 ---
 
-[![Static Badge](https://img.shields.io/badge/Code%20of%20Conduct-grey)](https://henrymeyer.de/code-of-conduct)
+<sub><a href="https://henrymeyer.de/code-of-conduct">Code of Conduct</a></sub>
