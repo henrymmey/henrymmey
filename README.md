@@ -1,6 +1,4 @@
-# Hi, I'm Henry.
-
-Young self-taught software developer & hardware enthusiast from Germany. Turning complex problems into efficient, real-world solutions.
+<img src="./assets/header.svg" width="100%" alt="henry: Hi, I'm Henry. Young self-taught software developer & hardware enthusiast from Germany. Turning complex problems into efficient, real-world solutions." />
 
 ## About
 
